@@ -2,7 +2,7 @@
 
 This extension helps you keep .ts and .tsx files *in-sync* across multiple projects.
 
-Suppose you have multiple typescript projects which share some common files and components. Extracting common functionality into a library is not always ideal. You may find yourself developing in each project separately, and then occassionaly syncing the improvements to the other projects.
+Suppose you have multiple typescript projects which share some common files and components. Extracting common functionality into a library is not always ideal. You may find yourself developing in each project separately, and then occasionally syncing the improvements to the other projects.
 
 This extension makes this process easier by automatically finding files with the same names across projects, comparing their contents, and presenting the user with the ability to visualize differences (via vscode.diff) and manually make synchronization decisions on a file-by-file bases.
 
