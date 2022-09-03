@@ -1,5 +1,12 @@
 {
   "name": "sync-ts",
+  "author": {
+    "name": "Jeremy Magland",
+    "email": "jmagland@flatironinstitute.org"
+  },
+  "repository": {
+    "url": "http://github.com/magland/sync-ts"
+  },
   "displayName": "sync-ts",
   "description": "Synchronize source files between typescript projects",
   "version": "0.0.1",
